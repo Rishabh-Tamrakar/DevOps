@@ -1,5 +1,3 @@
-# File: /devops-learning-repo/devops-learning-repo/Operating-System/file-system.md
-
 # File System in Operating Systems
 
 ## Introduction
