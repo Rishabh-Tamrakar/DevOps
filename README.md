@@ -1,30 +1,63 @@
-# DevOps Onboarding
-Welcome to the DevOps Onboarding repository! This project is designed to help new members of the DevOps team get started with essential topics related to DevOps practices and tools.
+# DevOps Learning Repository
 
-## Overview
-DevOps is a set of practices that combines software development (Dev) and IT operations (Ops). The goal is to shorten the development lifecycle while delivering features, fixes, and updates frequently in close alignment with business objectives.
+Welcome to the DevOps Learning Repository! This repository is designed for anyone who wants to start learning DevOps from the basics. It provides a structured approach to understanding key concepts in Operating Systems, Networking, Linux, DevOps practices, and AWS.
 
-## Getting Started
-To get started with the DevOps practices outlined in this repository, please follow the instructions below:
+## Table of Contents
 
-1. **Explore the Documentation**: 
-   - `docs/introduction.md`: Overview of DevOps principles and importance.
-   - `docs/tools-overview.md`: List of tools used in the DevOps lifecycle.
-   - `docs/ci-cd-basics.md`: Concepts of Continuous Integration and Continuous Deployment.
-   - `docs/version-control.md`: Basics of version control systems, focusing on Git.
+1. [Operating System](#operating-system)
+   - [Basics](Operating-System/basics.md)
+   - [File System](Operating-System/file-system.md)
+   - [Processes](Operating-System/processes.md)
 
-2. **Run the Scripts**:
-   - `scripts/setup-environment.sh`: Automates the setup of your development environment.
-   - `scripts/deploy-sample-app.sh`: Deploys a sample application to demonstrate the deployment process.
+2. [Networking](#networking)
+   - [TCP/IP](Networking/tcp-ip.md)
+   - [DNS](Networking/dns.md)
+   - [Firewalls](Networking/firewalls.md)
 
-3. **Check the Examples**:
-   - Explore the `examples` directory for practical implementations using Docker, Kubernetes, and Terraform.
+3. [Linux](#linux)
+   - [Commands](Linux/commands.md)
+   - [Shell Scripting](Linux/shell-scripting.md)
+   - [Permissions](Linux/permissions.md)
 
-## Contribution
-We welcome contributions to this repository. Please feel free to submit issues or pull requests to enhance the onboarding experience for new team members.
+4. [DevOps](#devops)
+   - [CI/CD](DevOps/ci-cd.md)
+   - [Version Control](DevOps/version-control.md)
+   - [Monitoring](DevOps/monitoring.md)
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+5. [AWS](#aws)
+   - [EC2](AWS/ec2.md)
+   - [S3](AWS/s3.md)
+   - [IAM](AWS/iam.md)
 
-## Contact
-For any questions or feedback, please reach out to the DevOps team.
+## What You'll Learn
+
+### Operating System
+- Understand the fundamental concepts of operating systems, including definitions, types, and key components.
+- Learn about file systems, their structure, management, and storage.
+- Explore processes, their states, scheduling, and inter-process communication.
+
+### Networking
+- Gain insights into the TCP/IP model, its layers, protocols, and data transmission.
+- Understand the Domain Name System (DNS) and how it resolves domain names to IP addresses.
+- Learn about firewalls, their types, and how they protect networks.
+
+### Linux
+- Get familiar with basic Linux commands for navigating and managing the environment.
+- Learn the basics of shell scripting, including syntax and control structures.
+- Understand file permissions in Linux and how to manage them.
+
+### DevOps
+- Discover Continuous Integration and Continuous Deployment (CI/CD) practices and tools.
+- Learn about version control systems, focusing on Git and collaboration workflows.
+- Explore monitoring practices, tools, and metrics for application performance.
+
+### AWS
+- Get an overview of Amazon EC2, including instance types and configurations.
+- Learn about Amazon S3, its features, and data management.
+- Understand AWS Identity and Access Management (IAM), user roles, and security best practices.
+
+## How to Navigate the Repository
+
+Each topic is organized into its respective folder. You can click on the links in the Table of Contents to access the markdown files for detailed information on each subject. This structured approach will help you build a solid foundation in DevOps.
+
+Happy Learning!
