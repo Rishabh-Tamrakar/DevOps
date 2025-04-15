@@ -5,29 +5,29 @@ Welcome to the DevOps Learning Repository! This repository is designed for anyon
 ## Table of Contents
 
 1. [Operating System](#operating-system)
-   - [Basics](Operating-System/basics.md)
-   - [File System](Operating-System/file-system.md)
-   - [Processes](Operating-System/processes.md)
+   - [Basics](1.Operating-System/basics.md)
+   - [File System](1.Operating-System/file-system.md)
+   - [Processes](1.Operating-System/processes.md)
 
 2. [Networking](#networking)
-   - [TCP/IP](Networking/tcp-ip.md)
-   - [DNS](Networking/dns.md)
-   - [Firewalls](Networking/firewalls.md)
+   - [TCP/IP](2.Networking/tcp-ip.md)
+   - [DNS](2.Networking/dns.md)
+   - [Firewalls](2.Networking/firewalls.md)
 
 3. [Linux](#linux)
-   - [Commands](Linux/commands.md)
-   - [Shell Scripting](Linux/shell-scripting.md)
-   - [Permissions](Linux/permissions.md)
+   - [Commands](3.Linux/commands.md)
+   - [Shell Scripting](3.Linux/shell-scripting.md)
+   - [Permissions](3.Linux/permissions.md)
 
 4. [DevOps](#devops)
-   - [CI/CD](DevOps/ci-cd.md)
-   - [Version Control](DevOps/version-control.md)
-   - [Monitoring](DevOps/monitoring.md)
+   - [CI/CD](4.DevOps/ci-cd.md)
+   - [Version Control](4.DevOps/version-control.md)
+   - [Monitoring](4.DevOps/monitoring.md)
 
 5. [AWS](#aws)
-   - [EC2](AWS/ec2.md)
-   - [S3](AWS/s3.md)
-   - [IAM](AWS/iam.md)
+   - [EC2](5.AWS/ec2.md)
+   - [S3](5.AWS/s3.md)
+   - [IAM](5.AWS/iam.md)
 
 ## What You'll Learn
 
